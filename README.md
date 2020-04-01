@@ -1,7 +1,7 @@
 # HadoopProject
 Big Data Hadoop Project
 
-Team Name: zeros_and_ones
+Team Name/Private Slack Channel Name: zeros_and_ones
 
 Team Members: Ayushi Rastogi,
               Shravya Gade,
